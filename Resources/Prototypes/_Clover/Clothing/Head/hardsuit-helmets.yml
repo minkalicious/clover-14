@@ -3,13 +3,13 @@
   parent: ClothingHeadHardsuitBase
   id: ClothingHeadHelmetHardsuitUESC
   name: UESC hardsuit helmet
-  description: Why do I feel like I've made a huge mistake? ...Why did we have a teleporter from this planet in our cargo hold?
+  description: "Why do I feel like I've made a huge mistake? ...Why did we have a teleporter from this planet in our cargo hold?"
   components:
   - type: BreathMask
-  - type: Sprite
-    sprite: _Clover/Clothing/Head/Hardsuits/uesc_helmet.rsi
   - type: Clothing
-    sprite: _Clover/Clothing/Head/Hardsuits/uesc_helmet.rsi
+    sprite: /Textures/_Clover/Clothing/Head/Helmets/uesc_helmet.rsi
+  - type: Sprite
+    sprite: /Textures/_Clover/Clothing/Head/Helmets/uesc_helmet.rsi
   - type: PointLight
     color: "#FFFFFF"
     radius: 5

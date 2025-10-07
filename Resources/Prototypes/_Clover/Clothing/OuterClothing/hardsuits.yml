@@ -1,20 +1,20 @@
 #THIS IS THE CLOVER HARDSUITS
 
-  - type: Entity
+  - type: entity
     parent: ClothingOuterHardsuitBase
     id: ClothingOuterHardsuitUESC
     name: UESC hardsuit
-    description: You feel like jumping into a planet with fifty stims and a railgun attached.
+    description: "You feel like jumping into a planet with fifty stims and a railgun attached."
     components:
-    - type: Sprite
-      sprite: _Clover/Clothing/OuterClothing/Hardsuits/uesc_hardsuit.rsi
     - type: Clothing
-      sprite: _Clover/Clothing/OuterClothing/Hardsuits/uesc_hardsuit.rsi
+      sprite: /Textures/_Clover/Clothing/OuterClothing/Hardsuits/uesc_hardsuit.rsi
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/OuterClothing/Hardsuits/uesc_hardsuit.rsi
     - type: PressureProtection
       highPressureMultiplier: 0.02
       lowPressureMultiplier: 1000
     - type: ExplosionResistance
-    damageCoefficient: 0.7
+      damageCoefficient: 0.7
     - type: Armor
       modifiers:
         coefficients:
@@ -29,6 +29,6 @@
       sprintModifier: 0.8
     - type: HeldSpeedModifier
     - type: ToggleableClothing
-      clothingPrototype:ClothingHeadHelmetHardsuitUESC
+      clothingPrototype: ClothingHeadHelmetHardsuitUESC
 
       
