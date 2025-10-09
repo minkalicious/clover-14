@@ -1,0 +1,14 @@
+- type: entity
+  parent: [ClothingEyesBase, ShowSecurityIcons, ShowMedicalIcons]
+  id: ClothingEyesVampireHunterHud
+  name: Vampire Hunter HUD Glasses
+  description: A heads-up display used by vampire hunters to track supernatural activity and vital signs.
+  components:
+  - type: Sprite
+    sprite: /Textures/_Clover/Clothing/Eyes/vamphunt.rsi
+  - type: Clothing
+    sprite: /Textures/_Clover/Clothing/Eyes/vamphunt.rsi
+  - type: Tag
+    tags:
+    - HudSecurity
+    - WhitelistChameleon
