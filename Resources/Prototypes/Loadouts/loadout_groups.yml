@@ -1126,6 +1126,8 @@
   - DetectiveArmorVest
   - DetectiveCoat
   - DetectiveCoatGrey
+  - DetectiveJamrock
+  - DetectiveAerostatic
 
 - type: loadoutGroup
   id: SecurityCadetJumpsuit
