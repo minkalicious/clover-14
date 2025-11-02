@@ -164,7 +164,7 @@
   groups:
   - GroupTankHarness
   - ClownHead
-- - ClownMask
+  - ClownMask
   - ClownJumpsuit
   - ClownBackpack
   - ClownOuterClothing

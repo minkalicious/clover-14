@@ -51,3 +51,13 @@
   id: DetectiveCoatGrey
   equipment:
     outerClothing: ClothingOuterCoatDetectiveLoadoutGrey
+
+- type: loadout
+  id: DetectiveJamrock
+  equipment:
+    outerClothing: ClothingOuterJamrock
+
+- type: loadout
+  id: DetectiveAerostatic
+  equipment:
+    outerClothing: ClothingOuterAerostatic
