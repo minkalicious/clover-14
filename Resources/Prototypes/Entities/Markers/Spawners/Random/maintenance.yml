@@ -201,7 +201,7 @@
       weight: 75
       children:
       - id: FlashlightLantern
-      - id: ToolboxEmergencyFilled
+      - id: ToolboxGrey #Clover
       - !type:GroupSelector
         children:
         - id: OxygenTankFilled
