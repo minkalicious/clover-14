@@ -32,7 +32,7 @@
   - type: ExplosionResistance
     damageCoefficient: 1 
 
-type: entity
+- type: entity
   parent: [ClothingOuterStorageBase, AllowSuitStorageClothing]
   id: ClothingOuterCoatIoan
   name: ioan's coat
