@@ -33,7 +33,7 @@
     damageCoefficient: 1 
 
 - type: entity
-  parent: [ClothingOuterStorageBase, AllowSuitStorageClothing]
+  parent: [ClothingOuterStorageBase]
   id: ClothingOuterCoatIoan
   name: ioan's coat
   description: It's showtime, my friend!
@@ -42,6 +42,4 @@
     sprite: _Clover/Clothing/OuterClothing/Coats/ioan.rsi
   - type: Clothing
     sprite: _Clover/Clothing/OuterClothing/Coats/ioan.rsi
-  - type: StorageFill
-    contents:
-    - id: BikeHorn
+
