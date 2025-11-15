@@ -1,5 +1,6 @@
 <div class="header" align="center">  
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/cca04d86-fbc9-488c-96ac-11186ec8f3e4" />
+<img width="280" height="280" alt="Clover" src="https://github.com/user-attachments/assets/78545391-9f3d-4629-b7bc-593c3c951b4a" />
+
 
 </div>
 
@@ -13,12 +14,14 @@ If you want to host or create content for Clover 14, this is the repo you need. 
 
 <div class="header" align="center">  
 
-[Discord](https://discord.gg/Tj8KHhnvE8) 
+[Discord](https://discord.gg/XkdERHGvsB) 
 </div>
 
 ## Contributing
 
 We are happy to accept contributions from anybody.
+
+Join the discord for any questions you may have!
 
 ## Building
 
