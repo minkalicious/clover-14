@@ -8,3 +8,80 @@
       sprite: /Textures/_Clover/Clothing/Uniforms/gabber.rsi
     - type: Clothing
       sprite: /Textures/_Clover/Clothing/Uniforms/gabber.rsi
+
+- type: entity # Sec
+  parent: ClothingUniformBase
+  id: ClothingUniformCorporateSec
+  name: security corporate suit
+  description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpsec.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpsec.rsi
+
+- type: entity # Med
+  parent: ClothingUniformBase
+  id: ClothingUniformCorporateMed
+  name: medical corporate suit
+  description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpmed.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpmed.rsi
+
+- type: entity # Eng
+  parent: ClothingUniformBase
+  id: ClothingUniformCorporateEng
+  name: engineering corporate suit
+  description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpeng.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpeng.rsi
+
+- type: entity # RD
+  parent: ClothingUniformBase
+  id: ClothingUniformCorporateRD
+  name: research director corporate suit
+  description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/corprd.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/corprd.rsi
+
+- type: entity # Sci
+  parent: ClothingUniformBase
+  id: ClothingUniformCorporateSci
+  name: science corporate suit
+  description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpsci.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpsci.rsi
+      
+- type: entity # Cargo
+  parent: ClothingUniformBase
+  id: ClothingUniformCorporateCargo
+  name: cargo corporate suit
+  description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpcargo.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpcargo.rsi
+
+- type: entity # Service
+  parent: ClothingUniformBase
+  id: ClothingUniformCorporateServ
+  name: service corporate suit
+  description: A Formal Suit repurposed from a bygone age, includes a department specific armband to easily identify you! Though, try to avoid covering it with any coats.
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpserv.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Uniforms/corpserv.rsi

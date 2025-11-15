@@ -1,0 +1,18 @@
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatShadowslayer
+  name: nameless shadow mask
+  description: A mask based off of- something? It feels familar and fills you with a sense of Deju Vu when looking at it? Have you seen it before? You swear you can hear a voice from time to time coming from it, something about a 'Path in the Woods' and 'Saving the World'?
+  components:
+  - type: Sprite
+    sprite: /Textures/_Clover/Clothing/head/hats/shadowslay.rsi
+  - type: Clothing
+    sprite: /Textures/_Clover/Clothing/head/hats/shadowslay.rsi
+  - type: Tag
+    tags:
+    - PetWearable
+    - CorgiWearable
+    - ClothMade
+    - Recyclable
+    - HamsterWearable
+    - WhitelistChameleon
