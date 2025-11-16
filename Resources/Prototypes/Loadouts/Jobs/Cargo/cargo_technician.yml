@@ -35,10 +35,10 @@
   equipment:
     jumpsuit: ClothingUniformJumpskirtCargo
 
- - type: loadout #clover
-   id: CargoCorporateJumpsuit
-   equipment:
-     jumpsuit: ClothingUniformCorporateCargo
+- type: loadout #clover
+  id: CargoCorporateJumpsuit
+  equipment:
+    jumpsuit: ClothingUniformCorporateCargo
 
 # Back
 - type: loadout

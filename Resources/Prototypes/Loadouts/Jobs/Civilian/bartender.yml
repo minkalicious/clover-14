@@ -25,10 +25,10 @@
   equipment:
     jumpsuit: ClothingUniformJumpsuitBartenderPurple
 
- - type: loadout #clover
-   id: ServCorporateJumpsuit
-   equipment:
-     jumpsuit: ClothingUniformCorporateServ
+- type: loadout #clover
+  id: ServCorporateJumpsuit
+  equipment:
+    jumpsuit: ClothingUniformCorporateServ
 
 # Outer clothing
 - type: loadout

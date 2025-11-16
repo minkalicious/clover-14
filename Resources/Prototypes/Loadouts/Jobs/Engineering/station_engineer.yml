@@ -62,10 +62,10 @@
   equipment:
     jumpsuit: ClothingUniformJumpsuitEngineeringHazard
 
- - type: loadout #clover
-   id: EngCorporateJumpsuit
-   equipment:
-     jumpsuit: ClothingUniformCorporateEng
+- type: loadout #clover
+  id: EngCorporateJumpsuit
+  equipment:
+    jumpsuit: ClothingUniformCorporateEng
 
 - type: loadout
   id: SeniorEngineerJumpsuit
