@@ -58,6 +58,66 @@
                 volume: -4
   - type: StationAiWhitelist
 
+- type: entity # Clover
+  parent: BaseWallmountMachine
+  id: WallmountTelevisionMagnets 
+  suffix: entertainment
+  name: television
+  description: FUCKING MAGNETS, HOW DO THEY WORK?
+  components:
+  - type: Construction
+    graph: WallmountTelevision
+    node: Television
+  - type: Sprite
+    sprite: Structures/Wallmounts/flatscreenmagnetstv.rsi
+    layers:
+      - map: ["computerLayerBody"]
+        state: television_wall
+      - map: ["computerLayerScreen"]
+        state: television_magnets
+  - type: DeviceNetwork
+    deviceNetId: Wireless
+    receiveFrequencyId: SurveillanceCamera
+    transmitFrequencyId: SurveillanceCamera
+  - type: WirelessNetworkConnection
+    range: 200
+  - type: DeviceNetworkRequiresPower
+  - type: Speech
+  - type: SurveillanceCameraSpeaker
+  - type: SurveillanceCameraMonitor
+  - type: ActivatableUI
+    key: enum.SurveillanceCameraMonitorUiKey.Key
+  - type: ActivatableUIRequiresPower
+  - type: ActivatableUIRequiresVision
+  - type: UserInterface
+    interfaces:
+        enum.SurveillanceCameraMonitorUiKey.Key:
+          type: SurveillanceCameraMonitorBoundUserInterface
+  - type: PointLight
+    radius: 1.5
+    energy: 1.6
+    color: "#b89f25"
+  - type: Destructible
+    thresholds:
+      - trigger:
+          !type:DamageTrigger
+          damage: 200
+        behaviors:
+          - !type:DoActsBehavior
+            acts: [ "Destruction" ]
+      - trigger:
+          !type:DamageTrigger
+          damage: 100
+        behaviors:
+          - !type:DoActsBehavior
+            acts: [ "Destruction" ]
+          - !type:PlaySoundBehavior
+            sound:
+              collection: MetalGlassBreak
+              params:
+                volume: -4
+  - type: StationAiWhitelist
+
 - type: entity
   parent: BaseWallmountGlass
   id: WallmountTelevisionFrame

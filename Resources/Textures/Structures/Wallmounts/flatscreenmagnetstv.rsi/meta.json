@@ -16,9 +16,10 @@
     {
       "name": "television_wallbroken"
     },
+
     {
-      "name": "television_wallscreen",
-      "delays": [
+       "name": "television_magnets",
+       "delays": [
             [
                 0.7,
                 0.7,
@@ -27,7 +28,7 @@
                 0.7,
                 0.7
             ]
-   
+        ]
     }
   ]
 }
