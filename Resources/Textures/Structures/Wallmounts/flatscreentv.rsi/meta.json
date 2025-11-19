@@ -18,7 +18,7 @@
     },
     {
       "name": "television_wallscreen",
-      "delays": [
+        "delays": [
             [
                 0.7,
                 0.7,
@@ -27,7 +27,7 @@
                 0.7,
                 0.7
             ]
-   
+        ]    
     }
   ]
 }
