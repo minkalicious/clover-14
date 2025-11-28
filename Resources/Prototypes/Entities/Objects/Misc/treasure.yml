@@ -12,7 +12,7 @@
     - state: datadisk_label
     - state: datadisk_encrypted
   - type: PointLight
-    radius: 1.5
+    radius: 2.0 #Clover
     energy: 0.5
     castShadows: false
     color: "#0000ff"

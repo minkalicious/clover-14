@@ -12,7 +12,7 @@
   - type: DamageOtherOnHit
     damage:
       types:
-        Blunt: 5
+        Blunt: 4 #Clover
   - type: Stack
     count: 1
   - type: Damageable
@@ -21,13 +21,13 @@
     thresholds:
     - trigger:
         !type:DamageTrigger
-        damage: 30
+        damage: 20 #Clover
       behaviors:
         - !type:DoActsBehavior
           acts: [ "Destruction" ]
     - trigger:
         !type:DamageTrigger
-        damage: 20
+        damage: 10 #Clover
       behaviors:
       - !type:PlaySoundBehavior
         sound:

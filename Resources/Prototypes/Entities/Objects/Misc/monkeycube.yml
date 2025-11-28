@@ -7,7 +7,7 @@
   - type: StorageFill
     contents:
       - id: MonkeyCubeWrapped
-        amount: 8
+        amount: 9 #Clover, this always has made me unreasonably angry
   - type: Sprite
     sprite: Objects/Misc/monkeycube.rsi
     state: box
@@ -50,7 +50,7 @@
   - type: StorageFill
     contents:
       - id: KoboldCubeWrapped
-        amount: 8
+        amount: 9 #Clover
   - type: Sprite
     sprite: Objects/Misc/monkeycube.rsi
     state: box_kobold
@@ -61,7 +61,7 @@
   id: VariantCubeBox
   description: Both kobold cubes and monkey cubes. Just add water!
   components:
-  - type: StorageFill
+  - type: StorageFill #In the future, make this have 10 slots and then 5 kobolds and 5 monkeys?
     contents:
       - id: KoboldCubeWrapped
         amount: 4

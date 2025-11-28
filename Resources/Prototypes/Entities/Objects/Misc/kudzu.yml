@@ -81,11 +81,11 @@
               Heat: 0.5
     - type: AtmosExposed
     - type: Kudzu
-      growthTickChance: 0.3
-      spreadChance: 0.4
+      growthTickChance: 0.1 #Clover
+      spreadChance: 0.6 #Clover
     - type: SpeedModifierContacts
-      walkSpeedModifier: 0.2
-      sprintSpeedModifier: 0.2
+      walkSpeedModifier: 0.1 #Clover
+      sprintSpeedModifier: 0.1 #Clover
       ignoreWhitelist:
         components:
         - IgnoreKudzu
@@ -111,7 +111,7 @@
   suffix: Weak
   components:
     - type: Kudzu
-      spreadChance: 0.3
+      spreadChance: 0.1 #Clover
 
 - type: entity
   id: KudzuFlowerFriendly
