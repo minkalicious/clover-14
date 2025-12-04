@@ -1,6 +1,3 @@
-﻿defaultWindowTitle: Clover Station 14 #Clover, duh
-windowIconSet: /Textures/Logo/icon
+defaultWindowTitle: Clover 14 #Clover, duh
+windowIconSet: /Textures/Logo/icon # i did it myself, flora :) you junkie
 splashLogo: /Textures/Logo/logo.png
-
-
-#TODO: create 16x16 - 256x256 images of the clover logo to then put as the app art, currently only the splash screen will be diffrent.
