@@ -1,0 +1,36 @@
+- type: job
+  id: RadioHost
+  name: job-name-executioner
+  description: job-description-executioner
+  playTimeTracker: JobExecutioner
+  startingGear: ExecutionerGear
+  icon: "JobIconExecutioner"
+  supervisors: job-supervisors-hos
+  access:
+  - Security
+  - Brig
+  - Maintenance
+  - Service
+  - External
+  - Cryogenics
+
+- type: startingGear
+  id: ExecutionerGear
+  equipment:
+    eyes: ClothingEyesGlassesSecurity
+    ears: ClothingHeadsetSecurity
+    pocket1: WeaponPistolMk58
+  storage:
+    back:
+    - Flash
+    - MagazinePistol
+
+- type: chameleonOutfit
+  id: RadioHostChameleonOutfit
+  job: RadioHost
+  equipment:
+    head: ClothingHeadHatBeretSecurity
+    mask: ClothingMaskGasSecurity
+    neck: Dinkystar
+    gloves: ClothingHandsGlovesColorBlack
+
