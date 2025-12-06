@@ -47,7 +47,7 @@
   - type: SolutionContainerManager
     solutions:
       melee:
-        maxVol: 2
+        maxVol: 3 #Clover
   - type: MeleeChemicalInjector
     solution: melee
   - type: RefillableSolution
@@ -55,11 +55,11 @@
   - type: InjectableSolution
     solution: melee
   - type: SolutionInjectOnEmbed
-    transferAmount: 2
+    transferAmount: 3 #Clover
     solution: melee
     blockSlots: OUTERCLOTHING
   - type: SolutionTransfer
-    maxTransferAmount: 2
+    maxTransferAmount: 3 #Clover
   - type: Damageable
     damageContainer: Inorganic
   - type: Destructible

@@ -35,4 +35,4 @@
         Blunt: 0
     hidden: true
   - type: UseDelay
-    delay: 2.0
+    delay: 1.0 #Clover, Skub.

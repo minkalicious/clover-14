@@ -42,8 +42,8 @@
     containerId: storage
   - type: PointLight
     color: Lime
-    radius: 1.5
-    energy: 0.5
+    radius: 3 #Clover
+    energy: 0.2 #Clover
     castShadows: false
   - type: ContainerContainer
     containers:
