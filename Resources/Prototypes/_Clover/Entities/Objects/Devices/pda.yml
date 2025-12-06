@@ -1,0 +1,8 @@
+- type: entity
+  parent: BasePDA
+  id: ExecutionerPDA
+  name: Executioner PDA
+  description: The PDA of the legal systems power weapon.
+  components:
+  - type: Pda
+    id: ExecutionerIDCard
