@@ -12,9 +12,9 @@
   - type: LightReplacer
     contents:
     - id: LightTube
-      amount: 8
+      amount: 16 #Clover
     - id: LightBulb
-      amount: 5
+      amount: 10 #Clover
   - type: StaticPrice
     price: 100
   - type: ContainerContainer

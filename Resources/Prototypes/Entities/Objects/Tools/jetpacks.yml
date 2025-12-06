@@ -3,7 +3,7 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: TimedDespawn
-    lifetime: 2
+    lifetime: 3 #Clover
   - type: Sprite
     drawdepth: SmallMobs
     noRot: true
@@ -52,7 +52,8 @@
       volume: 5
       temperature: 293.15
   - type: Jetpack
-    moleUsage: 0.00085
+    moleUsage: 0.00045 #Clover
+    #TODO: fix comments with correct flight times
   - type: Appearance
   - type: GenericVisualizer
     visuals:
