@@ -28,44 +28,44 @@
 
 # The following songs are from clover 14, used with permission from the artist.
 
-- files: ["Shooting Star- BANG! (Hixxy Remix).ogg"]
+- files: ["Shooting Star- BANG! (Hixxy Remix).ogg"] # TODO: STEREO TO MONO
   license: "CC-BY-NC-SA-3.0"
   copyright: "Shooting Star - BANG! (Hixxy Remix) by Bang! is used with permission from the artist."
   source: "https://soundcloud.com/supersmithtits/dj-hixxy-shooting-star"
 
-- files: ["Bang!  - Break Of Dawn - Scott Brown Remix.ogg"]
+- files: ["breakofdawn.ogg"]
   license: "CC-BY-NC-SA-3.0"
-  copyright: "Break Of Dawn - Scott Brown Remix by Bang! is used with permission from the artist."
+  copyright: "Break Of Dawn - Scott Brown Remix by Bang! is used with permission from the artist. Converted from Stereo to Mono"
   source: "https://www.youtube.com/watch?v=SFjFANq1Vqo"  
 
-- files: ["3log! - square1 (mptm).ogg"]
+- files: ["square1 (mptm).ogg"] # TODO: STEREO TO MONO
   license: "CC-BY-NC-SA-3.0"
   copyright: "square1 by 3log! is used with permission from the artist."
   source: "https://www.youtube.com/watch?v=dU8Mo6Xrng0"
 
-- files: ["3log! - merchant..ogg"]
+- files: ["merchant.ogg"] # TODO: STEREO TO MONO
   license: "CC-BY-NC-SA-3.0"
   copyright: "merchant. by 3log! is used with permission from the artist."
   source: "https://www.youtube.com/watch?v=EptFeKzXY8Y"  
 
-- files: ["3log! - laughterhouse (mptm).ogg"]
+- files: ["laughterhouse(mptm).ogg"]
   license: "CC-BY-NC-SA-3.0"
-  copyright: "laughterhouse (mptm) by 3log! is used with permission from the artist."
+  copyright: "laughterhouse (mptm) by 3log! is used with permission from the artist, changed from STEREO to MONO OGG with https://onlineaudioconverter.com/"
   source: "https://www.youtube.com/watch?v=D_iH8CJkfTs"
 
-- files: ["Meaty lance.ogg"]
+- files: ["Meaty lance.ogg"] # TODO: STEREO TO MONO
   license: "CC-BY-NC-SA-3.0"
   copyright: "Meaty Lance by SUMPP"
 
-- files: ["megahit.ogg"]
+- files: ["megahit.ogg"] # TODO: STEREO TO MONO
   license: "CC-BY-NC-SA-3.0"
   copyright: "Megahit - Chrome Type Fire"
   source: "https://www.youtube.com/watch?v=1TrglSQ5T4A"
 
-- files: ["nwo.ogg"]
+- files: ["nwo.ogg"] # TODO: STEREO TO MONO
   license: "CC-BY-NC-SA-3.0"
   copyright: "Are you ready for ze new world order? by Michaelanthony"
 
-- files: ["lobcorp.ogg"]
+- files: ["lobcorp.ogg"] # TODO: STEREO TO MONO
   license: "CC-BY-NC-SA-3.0"
   copyright: "Hokma Suppression by Dr. ReB from Lobotomy Corporation"
