@@ -38,6 +38,9 @@
             "name": "ert_security"
         },
         {
+            "name": "executioner"
+        },
+        {
             "name": "gold"
         },
         {

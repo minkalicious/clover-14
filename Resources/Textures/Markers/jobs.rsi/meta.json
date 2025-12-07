@@ -107,6 +107,9 @@
       "name": "engineer"
     },
     {
+      "name": "executioner"
+    },
+    {
       "name": "geneticist"
     },
     {
@@ -170,7 +173,7 @@
       "name": "scientist"
     },
     {
-      "name": "security_cadet" 
+      "name": "security_cadet"
     },
     {
       "name": "security_officer"
