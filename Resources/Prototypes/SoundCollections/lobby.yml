@@ -1,20 +1,20 @@
 - type: soundCollection
   id: LobbyMusic
   files:
-    - /Audio/Lobby/thunderdome.ogg
+   # - /Audio/Lobby/thunderdome.ogg
     - /Audio/Lobby/space_asshole.ogg
     - /Audio/Lobby/the_wizard.ogg
-    - /Audio/Lobby/singuloose.ogg
+   # - /Audio/Lobby/singuloose.ogg
     - /Audio/Lobby/title2.ogg
     - /Audio/Lobby/title3.ogg
     - /Audio/Lobby/mod.flip-flap.ogg
-    - /Audio/Lobby/pwmur.ogg
+    #- /Audio/Lobby/pwmur.ogg
     - /Audio/Lobby/nwo.ogg
     - /Audio/Lobby/lobcorp.ogg
-    - /Audio/Lobby/3log! - laughterhouse(mptm).ogg
+    - /Audio/Lobby/laughterhousemptm.ogg
     - /Audio/Lobby/3log! - merchant..ogg
     - /Audio/Lobby/3log! - square1 (mptm).ogg
     - /Audio/Lobby/megahit.ogg
     - /Audio/Lobby/Shooting Star- BANG! (Hixxy Remix).ogg
     - /Audio/Lobby/Simon Harris - Flatliners (Yell-O-Phase Remix).ogg
-    - /Audio/Lobby/Meaty Lance (feat. Flagman).ogg 
+   # - /Audio/Lobby/meatylance.ogg 

@@ -40,15 +40,63 @@
   path:
     path: /Audio/Jukebox/sunset.ogg
 
-    # Clover Jukebox additions # TODO, add more after i change stereo to mono to the other tracks
+    # Clover Jukebox additions
 - type: jukebox
   id: laughter
   name: 3log! - Laughterhouse (mptm)
   path:
-    path: /Audio/Jukebox/laughterhouse(mptm).ogg
+    path: /Audio/Jukebox/laughterhousemptm.ogg
 
 - type: jukebox
   id: breakofdawn
   name: Bang! - Break of Dawn
   path:
     path: /Audio/Jukebox/breakofdawn.ogg
+
+- type: jukebox
+  id: flatline
+  name: Simon Harris - Flatliners (Yell-O Phase Remix)
+  path:
+    path: /Audio/Jukebox/flatliners.ogg
+
+- type: jukebox
+  id: lobcorp
+  name: Dr. ReB - Hokma Suppression
+  path:
+    path: /Audio/Jukebox/lobcorp.ogg
+
+- type: jukebox
+  id: nwo
+  name: Michaelanthony - Are you ready for ze new world order?
+  path:
+    path: /Audio/Jukebox/nwo.ogg
+
+- type: jukebox
+  id: megahit
+  name: Megahit - Chrome Type Fire
+  path:
+    path: /Audio/Jukebox/megahit.ogg
+
+- type: jukebox
+  id: merchant
+  name: 3log! - Merchant.
+  path:
+    path: /Audio/Jukebox/merchant.ogg
+
+- type: jukebox
+  id: square1
+  name: 3log! - square1 (mptm)
+  path:
+    path: /Audio/Jukebox/square1mptm.ogg
+
+- type: jukebox
+  id: shootingstar
+  name: Bang! - Shooting Star (Hixxy Remix)
+  path:
+    path: /Audio/Jukebox/shootingstar.ogg
+
+#- type: jukebox axed due to inappropriate content
+#  id: meatylance
+#  name: SUMPP - Meaty Lance
+#  path:
+#    path: /Audio/Jukebox/meatylance.ogg
