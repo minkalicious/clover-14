@@ -7,3 +7,6 @@ and then **privately** message anyone with the `@Wizard` or `@SS14 Maintainer` r
 
 In either case, **do not publicly disclose the vulnerability until we explicitly give
 you permission to do so**.
+
+> [!NOTE]
+> The message above only applies to Wizden but message us to keep us updated as we're a wizden fork.
