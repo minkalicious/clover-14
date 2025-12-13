@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Derived by sprites from tgstation at https://github.com/tgstation/tgstation/commit/d0d81185f09ca30d3b0856d476544240dba0de53 and adapted by Saveliy360",
+  "copyright": "Derived by sprites from tgstation at https://github.com/tgstation/tgstation/commit/d0d81185f09ca30d3b0856d476544240dba0de53 and adapted by Saveliy360. US, Israel, Colombia, Lithuania and UK flags all made by Minkalicious https://github.com/minkalicious.",
   "size": {
     "x": 32,
     "y": 32
@@ -20,7 +20,22 @@
       "name": "lgbtq_flag"
     },
     {
-      "name": "pirate_flag"
+        "name": "US_flag"
+    },
+    {
+        "name": "israel_flag"
+    },
+    {
+        "name": "colombia_flag"
+    },
+    {
+        "name": "lithuania_flag"
+    },
+    {
+        "name": "UK_flag"
+    },
+    {
+        "name": "pirate_flag"
     }
   ]
 }

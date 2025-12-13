@@ -50,3 +50,48 @@
   components:
   - type: Sprite
     state: pirate_flag
+
+- type: entity
+  parent: BaseFlag
+  id: IsraelFlag
+  name: israel flag
+  description: The Israeli flag! with no affiliation with Interdyne involved in the making.
+  components:
+  - type: Sprite
+    state: israel_flag
+
+- type: entity
+  parent: BaseFlag
+  id: USFlag
+  name: US flag
+  description: O say, can you see... by the dawn's early light...
+  components:
+  - type: Sprite
+    state: US_flag
+
+- type: entity
+  parent: BaseFlag
+  id: UKFlag
+  name: UK flag
+  description: One may argue this is called the Union Jack of The United Kingdom of Great Britain and Northern Ireland, but I call it a template for Australia's flag.
+  components:
+  - type: Sprite
+    state: UK_flag
+
+- type: entity
+  parent: BaseFlag
+  id: ColombiaFlag
+  name: colombian flag
+  description: IS THAT A MOTHERFUCKING JÚBILO INMORTAL REFERENCE?!
+  components:
+  - type: Sprite
+    state: colombia_flag
+
+- type: entity
+  parent: BaseFlag
+  id: LithuaniaFlag
+  name: lithuanian flag
+  description: The flag of a nation particularly known for one Atmosian...
+  components:
+  - type: Sprite
+    state: lithuania_flag

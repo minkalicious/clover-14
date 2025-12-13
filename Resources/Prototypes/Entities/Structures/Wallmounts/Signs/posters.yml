@@ -1131,6 +1131,8 @@
   - type: Sprite
     state: poster55_legit
 
+# CLOVER POSTERS
+
 - type: entity
   parent: PosterBase
   id: PosterLegitHeroesOfThePast
@@ -1157,6 +1159,52 @@
   components:
   - type: Sprite
     state: poster58_legit
+
+- type: entity
+  parent: PosterBase
+  id: PosterLegitSoundtracksForTheBlind
+  name: Soundtracks for the Blind
+  description: "A poster of the album cover for Soundtracks for the Blind by Swans."
+  components:
+  - type: Sprite
+    state: poster59_legit
+
+- type: entity
+  parent: PosterBase
+  id: PosterLegitFilth
+  name: Filth
+  description: "A poster of the album cover for Filth by Swans."
+  components:
+  - type: Sprite
+    state: poster60_legit
+
+- type: entity
+  parent: PosterBase
+  id: PosterLegitGreatAnnihilator
+  name: The Great Annihilator
+  description: "A poster of the album cover for The Great Annihilator by Swans."
+  components:
+  - type: Sprite
+    state: poster61_legit
+
+- type: entity
+  parent: PosterBase
+  id: PosterLegitGlowingMan
+  name: The Glowing Man
+  description: "A poster of the album cover for The Glowing Man by Swans."
+  components:
+  - type: Sprite
+    state: poster62_legit
+
+- type: entity
+  parent: PosterBase
+  id: PosterLegitFatherWillGuideMe
+  name: My Father Will Guide Me Up a Rope to the Sky
+  description: "A poster of the album cover for My Father Will Guide Me Up a Rope to the Sky by Swans."
+  components:
+  - type: Sprite
+    state: poster63_legit
+
 
 #maps
 
