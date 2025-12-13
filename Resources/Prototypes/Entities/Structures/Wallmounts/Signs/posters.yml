@@ -1205,6 +1205,14 @@
   - type: Sprite
     state: poster63_legit
 
+- type: entity
+  parent: PosterBase
+  id: PosterLegitFreekShow
+  name: Freek Show
+  description: "A poster of the album cover for Freek Show by Twiztid."
+  components:
+  - type: Sprite
+    state: poster64_legit
 
 #maps
 

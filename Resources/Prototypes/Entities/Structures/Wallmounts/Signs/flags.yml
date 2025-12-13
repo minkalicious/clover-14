@@ -95,3 +95,12 @@
   components:
   - type: Sprite
     state: lithuania_flag
+
+- type: entity
+  parent: BaseFlag
+  id: CloverFlag
+  name: clover flag
+  description: A flag of the Clover corporation, symbolizing luck and prosperity.
+  components:
+  - type: Sprite
+    state: clover_flag
