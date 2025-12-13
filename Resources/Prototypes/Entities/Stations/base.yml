@@ -63,8 +63,8 @@
         ruins: !type:GridSpawnGroup
           hide: true
           nameGrid: true
-          minCount: 2
-          maxCount: 2
+          minCount: 3 #Clover
+          maxCount: 4 #Clover
           stationGrid: false
           paths:
           - /Maps/Ruins/abandoned_outpost.yml
@@ -84,10 +84,10 @@
           - /Maps/Ruins/displaced_telescience.yml
         wrecks: !type:DungeonSpawnGroup
           minimumDistance: 150
-          maximumDistance: 300
+          maximumDistance: 450 #Clover
           stationGrid: false
-          minCount: 12
-          maxCount: 16
+          minCount: 16 #Clover
+          maxCount: 24 #Clover
           addComponents:
           - type: Gravity
             enabled: true
@@ -103,7 +103,7 @@
           - ChunkDebris
         vgroid: !type:DungeonSpawnGroup
           minimumDistance: 300
-          maximumDistance: 350
+          maximumDistance: 600 #Clover
           nameDataset: NamesBorer
           stationGrid: false
           addComponents:
