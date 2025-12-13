@@ -1,0 +1,14 @@
+- type: roleLoadout
+  id: JobExecutioner
+  groups:
+  - SecurityHead
+  - SecurityJumpsuit
+  - SecurityBackpack
+  - SecurityOuterClothing
+  - SecurityShoes
+  - ExecutionerPDA
+  - SecurityBelt
+  - SurvivalSecurity
+  - Trinkets
+  - SecurityStar
+  - GroupSpeciesBreathToolSecurity

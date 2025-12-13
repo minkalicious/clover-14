@@ -1,0 +1,11 @@
+- type: entity
+  id: SpawnPointExecutioner
+  parent: SpawnPointJobBase
+  name: SpawnPointExecutioner
+  components:
+  - type: SpawnPoint
+    job_id: Executioner
+  - type: Sprite
+    layers:
+    - state: green
+    - state: executioner
