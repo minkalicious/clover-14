@@ -1214,6 +1214,15 @@
   - type: Sprite
     state: poster64_legit
 
+- type: entity
+  parent: PosterBase
+  id: PosterLegitApeOfNaples
+  name: The Ape of Naples
+  description: "A poster of the album cover for The Ape of Naples by Coil."
+  components:
+  - type: Sprite
+    state: poster65_legit
+
 #maps
 
 - type: entity

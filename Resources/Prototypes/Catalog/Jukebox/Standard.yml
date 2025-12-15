@@ -93,10 +93,22 @@
   id: shootingstar
   name: Bang! - Shooting Star (Hixxy Remix)
   path:
-    path: /Audio/Jukebox/shootingstar.ogg
+
 
 #- type: jukebox axed due to inappropriate content
 #  id: meatylance
 #  name: SUMPP - Meaty Lance
 #  path:
 #    path: /Audio/Jukebox/meatylance.ogg
+
+- type: jukebox
+  id: lwtua
+  name: Swans - Love Will Tear Us Apart
+  path:
+    path: /Audio/Jukebox/lwtua.ogg
+
+- type: jukebox
+  id: the_future_soon
+  name: Jonathan Coulton - The Future Soon
+  path:
+    path: /Audio/Lobby/the_future_soon.ogg
