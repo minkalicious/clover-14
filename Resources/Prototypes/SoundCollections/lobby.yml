@@ -1,14 +1,11 @@
 - type: soundCollection
   id: LobbyMusic
   files:
-   # - /Audio/Lobby/thunderdome.ogg
     - /Audio/Lobby/space_asshole.ogg
     - /Audio/Lobby/the_wizard.ogg
-   # - /Audio/Lobby/singuloose.ogg
     - /Audio/Lobby/title2.ogg
     - /Audio/Lobby/title3.ogg
     - /Audio/Lobby/mod.flip-flap.ogg
-    #- /Audio/Lobby/pwmur.ogg
     - /Audio/Lobby/nwo.ogg
     - /Audio/Lobby/lobcorp.ogg
     - /Audio/Lobby/laughterhousemptm.ogg
@@ -17,4 +14,6 @@
     - /Audio/Lobby/megahit.ogg
     - /Audio/Lobby/Shooting Star- BANG! (Hixxy Remix).ogg
     - /Audio/Lobby/Simon Harris - Flatliners (Yell-O-Phase Remix).ogg
-   # - /Audio/Lobby/meatylance.ogg 
+    - /Audio/Lobby/lwtua.ogg
+    - /Audio/Lobby/the_future_soon.ogg 
+

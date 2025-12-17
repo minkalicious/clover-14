@@ -1214,6 +1214,51 @@
   - type: Sprite
     state: poster64_legit
 
+- type: entity
+  parent: PosterBase
+  id: PosterLegitApeOfNaples
+  name: The Ape of Naples
+  description: "A poster of the album cover for The Ape of Naples by Coil."
+  components:
+  - type: Sprite
+    state: poster65_legit
+
+- type: entity
+  parent: PosterBase
+  id: PosterLegitOrchid
+  name: Orchid
+  description: "A poster of the album cover for Orchid by Opeth."
+  components:
+  - type: Sprite
+    state: poster66_legit
+
+- type: entity
+  parent: PosterBase
+  id: PosterLegitGreatMilenko
+  name: The Great Milenko
+  description: "A poster of the album cover for The Great Milenko by Insane Clown Posse."
+  components:
+  - type: Sprite
+    state: poster67_legit
+
+- type: entity
+  parent: PosterBase
+  id: PosterLegitShangriLa
+  name: "The Wraith: Shangri-La"
+  description: "A poster of the album cover for The Wraith: Shangri-La by Insane Clown Posse."
+  components:
+  - type: Sprite
+    state: poster68_legit
+
+- type: entity
+  parent: PosterBase
+  id: PosterLegitLateralus
+  name: Lateralus
+  description: "A poster of the album cover for Lateralus by Tool."
+  components:
+  - type: Sprite
+    state: poster69_legit
+
 #maps
 
 - type: entity

@@ -210,12 +210,12 @@
       Hair: HEAD
       Snout: HEAD
 
-#Knight Helmet
+#Templar Helmet
 - type: entity
   parent: ClothingHeadHelmetBase
   id: ClothingHeadHelmetTemplar
-  name: knight helmet
-  description: Decorative helmet fashioned to resemble the knights of old.
+  name: templar helmet
+  description: DEUS VULT!
   components:
   - type: Sprite
     sprite: Clothing/Head/Helmets/templar.rsi
