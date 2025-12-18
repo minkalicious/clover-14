@@ -1,0 +1,23 @@
+- type: entity
+  id: SpawnPointGnome
+  name: ghost role spawn point
+  suffix: gnome
+  parent: MarkerBase
+  components:
+  - type: GhostRole
+    name: ghost-role-information-rat-king-name #Todo: change this
+    description: ghost-role-information-rat-king-description #Todo: change this
+    rules: ghost-role-information-antagonist-rules #Todo: change to free agent rules
+    mindRoles:
+    - MindRoleGhostRoleSoloAntagonist #todo: free agent
+    raffle:
+      settings: default
+  - type: GhostRoleMobSpawner
+    prototype: MobRatKing
+  - type: Sprite
+    sprite: Markers/jobs.rsi
+    layers:
+      - state: green
+      - sprite: Mobs/Animals/regalrat.rsi
+        state: icon
+# Todo: switch all to gnomestuff after changing root slop
