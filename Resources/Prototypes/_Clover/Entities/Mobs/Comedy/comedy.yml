@@ -6,9 +6,13 @@
   name: Michael Gira
   description: I am the Sun.
   components:
+  - type: Devourer
   - type: Speech
     speechVerb: Default
     speechSounds: Gira
+  - type: Vocal
+   # emoteSounds: Gira // idk how do i do this lmao todo for later
+  - type: Identity
   - type: Sprite
     sprite: _Clover/Mobs/Comedy/gira.rsi
     state: gira
