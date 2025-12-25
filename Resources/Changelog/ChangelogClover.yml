@@ -4,5 +4,5 @@ Entries:
   - message: Added proper changelog.
     type: Add
   id: 1
-  time: '2025-12-21T02:30.0000000+00:00'
+  time: '2025-12-21T02:30:00+00:00'
   url: https://github.com/minkalicious/clover-14/pull/34

@@ -703,10 +703,8 @@
 
 - type: emoteSounds # Clover
   id: Gira
-  sounds:
-    Scream:
-      sound:
-        path: /Audio/_Clover/Comedy/gira_scream.ogg
-        params:
-          variation: 0.125
+  sound:
+    path: /Audio/_Clover/Comedy/gira_scream.ogg
+    params:
+      variation: 0.125
 
