@@ -6,9 +6,14 @@
   name: Michael Gira
   description: I am the Sun.
   components:
+  - type: Devourer
   - type: Speech
     speechVerb: Default
     speechSounds: Gira
+  - type: EmoteSounds
+    sounds:
+      Gira
+  - type: Identity
   - type: Sprite
     sprite: _Clover/Mobs/Comedy/gira.rsi
     state: gira
@@ -24,12 +29,28 @@
   - type: DatasetVocalizer
     dataset: GiraSay
   - type: DoAfter
-  - type: RandomWalk
   - type: Pullable
   - type: MovementSpeedModifier
     baseWalkSpeed : 4
     baseSprintSpeed : 4
- 
+  - type: MobThresholds
+    thresholds:
+      0: Alive
+      300: Critical
+      350: Dead 
+  - type: Damageable
+  - type: DamageModifierSet
+    coefficients:
+      Blunt: 0.4
+      Slash: 0.4
+      Piercing: 0.4
+  - type: GhostRole
+    name: Gira
+    description: And I am the sun, I rise above the world, And when the light goes out, I kill another child.
+  - type: GhostTakeoverAvailable
+
+
+
 
 - type: localizedDataset
   id: GiraSay

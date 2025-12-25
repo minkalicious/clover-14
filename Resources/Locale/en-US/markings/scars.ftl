@@ -33,3 +33,5 @@ marking-ScarEyeRightSmall = Small Eye Scar (Right)
 
 marking-ScarEyeLeftSmall-scar_eye_left_small = Left Eye Scar (Small)
 marking-ScarEyeLeftSmall = Small Eye Scar (Left)
+
+marking-StitchFace = Stitched Up Face

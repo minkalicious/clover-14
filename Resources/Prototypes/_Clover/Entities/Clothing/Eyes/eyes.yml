@@ -12,3 +12,22 @@
     tags:
     - HudSecurity
     - WhitelistChameleon
+
+- type: entity
+  parent: ClothingEyesBase
+  id: ClothingEyesGlassesDragory
+  name: dragory's gar glasses
+  description: "THE H'GH PR'EST OF ANT'CRA... Makes you look stylish while serving justice and swinging your hammers around."
+  components:
+  - type: Sprite
+    sprite: _Clover/Clothing/Eyes/dragory.rsi
+  - type: Clothing
+    sprite: _Clover/Clothing/Eyes/dragory.rsi
+  - type: Item
+  - type: MeleeWeapon
+    damage:
+      types:
+        Blunt: 10
+  - type: Tag
+    tags:
+    - WhitelistChameleon

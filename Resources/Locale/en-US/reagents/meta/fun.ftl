@@ -33,3 +33,7 @@ reagent-desc-hew = Pure essence of inversed lizard plush. Makes you Hew!
 
 reagent-name-corgiessence = corgium
 reagent-desc-corgiessence = Tastes like dog food. Clearly an acquired taste.
+
+#clover
+reagent-name-hopium = hopium
+reagent-desc-hopium = Makes you filled with hope.

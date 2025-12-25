@@ -17,6 +17,7 @@
         - id: ClothingEyesGlassesGar
         - id: ClothingEyesGlassesGarOrange
         - id: ClothingEyesGlassesGarGiga
+        - id: ClothingEyesGlassesDragory
       - id: Wristwatch
         weight: 0.5
       - id: ClothingHeadHatCake
@@ -29,6 +30,8 @@
       - id: ClothingUnderSocksBee
       - id: ClothingUnderSocksCoder
       - id: ClothingHeadHatSquid
+      - id: ClothingHeadHatCowboyGira # Clover
+      - id: ClothingHeadHatTinfoilCrown # Clover
       # Animal Masks
       - !type:GroupSelector
         children:

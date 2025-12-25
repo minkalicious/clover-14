@@ -5,9 +5,9 @@
   description: A mask based off of- something? It feels familar and fills you with a sense of Deja Vu when looking at it? Have you seen it before? You swear you can hear a voice from time to time coming from it, something about a 'Path in the Woods' and 'Saving the World'?
   components:
   - type: Sprite
-    sprite: /Textures/_Clover/Clothing/head/hats/shadowslay.rsi
+    sprite: /Textures/_Clover/Clothing/Head/Hats/shadowslay.rsi
   - type: Clothing
-    sprite: /Textures/_Clover/Clothing/head/hats/shadowslay.rsi
+    sprite: /Textures/_Clover/Clothing/Head/Hats/shadowslay.rsi
   - type: Tag
     tags:
     - PetWearable
@@ -16,3 +16,39 @@
     - Recyclable
     - HamsterWearable
     - WhitelistChameleon
+
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatCowboyGira
+  name: the skinny hat
+  description: I was a prisoner in your Hat.
+  components:
+    - type: Sprite
+      sprite: Clothing/Head/Hats/cowboyhatwhite.rsi
+    - type: Clothing
+      sprite: Clothing/Head/Hats/cowboyhatwhite.rsi
+    - type: AmbientSound
+      sound:
+        path: /Audio/_Clover/Comedy/ambience.ogg
+    - type: Tag
+      tags:
+      - PetWearable
+      - CorgiWearable
+      - WhitelistChameleon
+      - HamsterWearable
+
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatTinfoilCrown
+  name: tinfoil crown
+  description: You must be a magic man from ethiopia living in russian siberia to understand the magnificence of this headgear. This is to protect against the mind control rays from the government. Wear this and you shall be free from their control!
+  components:
+    - type: Sprite
+      sprite: /Textures/_Clover/Clothing/Head/Hats/tinfoilcrown.rsi
+    - type: Clothing
+      sprite: /Textures/_Clover/Clothing/Head/Hats/tinfoilcrown.rsi
+    - type: Tag
+      tags:
+      - WhitelistChameleon  

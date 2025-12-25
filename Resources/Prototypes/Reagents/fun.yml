@@ -422,3 +422,20 @@
         conditions:
         - !type:ReagentThreshold
           min: 50
+
+- type: reagent #Clover
+  id: Hopium
+  name: reagent-name-hopium
+  group: Special
+  desc: reagent-desc-hopium
+  physicalDesc: reagent-physical-desc-syrupy
+  flavor: hope
+  color: "#FEC248"
+  metabolisms:
+    Medicine:
+      effects:
+      - !type:PopupMessage
+        type: Local
+        visualType: Large
+        messages: [ "hopium-effect-hopeful" ]
+        probability: 0.4

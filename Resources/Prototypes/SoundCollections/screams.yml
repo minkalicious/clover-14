@@ -7,6 +7,7 @@
     - /Audio/Voice/Human/malescream_4.ogg
     - /Audio/Voice/Human/malescream_5.ogg
     - /Audio/Voice/Human/malescream_6.ogg
+    - /Audio/_Clover/Comedy/gira_scream.ogg
 
 - type: soundCollection
   id: FemaleScreams
@@ -41,6 +42,7 @@
     - /Audio/Voice/Human/malescream_4.ogg
     - /Audio/Voice/Human/malescream_5.ogg
     - /Audio/Voice/Human/malescream_6.ogg
+    - /Audio/_Clover/Comedy/gira_scream.ogg 
 
     # Female.
     - /Audio/Voice/Human/femalescream_1.ogg
@@ -61,6 +63,7 @@
     - /Audio/Machines/robotscream_7.ogg
     - /Audio/Machines/robotscream_8.ogg
     - /Audio/Machines/robotscream_9.ogg
+    - /Audio/_Clover/Comedy/gira_borg.ogg 
 
 - type: soundCollection
   id: VulpkaninScreams
@@ -69,3 +72,4 @@
   - /Audio/Voice/Vulpkanin/vulp_scream2.ogg
   - /Audio/Voice/Vulpkanin/vulp_scream3.ogg
   - /Audio/Voice/Vulpkanin/vulp_scream4.ogg
+  - /Audio/_Clover/Comedy/gira_scream.ogg
