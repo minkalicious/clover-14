@@ -1,65 +1,29 @@
-<guidebook>
-  <title>Clover Server Rules</title>
+<document>
+# Clover Server Rules
 
-  <section>
-    <header>1. Zero-Tolerance Content</header>
-    <text>
-      Erotic roleplay (ERP), hate speech, sexual content, and illegal content
-      are strictly prohibited. This is a zero-tolerance rule and will result
-      in a permanent ban.
-    </text>
-    <text>
-      Romance is allowed, provided it does not involve sexual actions or content.
-    </text>
-  </section>
+## 1. Zero-Tolerance Content
+- Erotic roleplay (ERP), hate speech, sexual content, and illegal content
+are strictly prohibited. This is a zero-tolerance rule and will result
+in a permanent ban. Romance is allowed, provided it does not involve sexual actions or content.
 
-  <section>
-    <header>2. Escalation and Roleplay</header>
-    <text>
-      All actions are considered in-character and roleplayed.
-      Situations must be escalated or de-escalated appropriately.
-    </text>
-  </section>
+## 2. Escalation and Roleplay
+- 2.1: All actions are considered in-character and roleplayed.
+- 2.2: Situations must be escalated or de-escalated appropriately.
 
-  <section>
-    <header>3. High-Roleplay Environment</header>
-    <text>
-      This is a High Roleplay (HRP) server.
-      Players are expected to put effort into their characters and actions
-      and to be as engaging and interesting as reasonably possible.
-    </text>
-  </section>
+## 3. High-Roleplay Environment
+- 3.1: This is a High Roleplay (HRP) server, Players are expected to put effort into their characters and actions and to be as engaging and interesting as reasonably possible.
+- 3.2: Doing LRP activities at random is not an interesting RP, do something else.
 
-  <section>
-    <header>4. Server Safety</header>
-    <text>
-      Any actions that may put the server at risk of being de-hubbed
-      or de-authorized will result in a permanent ban.
-    </text>
-  </section>
+## 4. Server Safety
+- Any actions that may put the server at risk of being de-hubbed or de-authed will result in a permanent ban.
 
-  <section>
-    <header>5. Character Age</header>
-    <text>
-      Player characters must be 18 years of age or older.
-      Characters younger than 18 are not permitted.
-    </text>
-  </section>
+## 5. Character Age
+- Player characters must be 18 years of age or older, Characters younger than 18 are not permitted.
 
-  <section>
-    <header>6. Language</header>
-    <text>
-      English is the primary language of the server.
-      Exceptions may be made for character accents or gimmicks,
-      provided communication remains clear.
-    </text>
-  </section>
+## 6. Language
+- 6.1: English is the primary language of the server.
+- 6.2: Exceptions may be made for character accents or gimmicks, provided communication remains clear.
 
-  <section>
-    <header>7. Out-of-Game Information</header>
-    <text>
-      Do not share round information or in-character events
-      outside of the game, including on Discord.
-    </text>
-  </section>
-</guidebook>
+## 7. Out-of-Game Information
+Do not share round information or in-character events outside of the game, including on Discord.
+</document>
