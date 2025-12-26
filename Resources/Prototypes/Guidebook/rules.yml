@@ -4,7 +4,7 @@
   ruleEntry: true
   priority: 0
   category: Rules
-  text: "/Guidebook/Rules/CloverRules.xml"
+  text: "/Guidebook/ServerRules/CloverRules.xml"
 
 
 
