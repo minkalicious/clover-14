@@ -1,0 +1,11 @@
+- type: entity
+  parent: IDCardStandard
+  id: ExecutionerIDCard
+  name: executioner ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: default
+    - state: idexecutioner
+  - type: PresetIdCard
+    job: Executioner

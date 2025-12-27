@@ -1,0 +1,15 @@
+- type: entity
+  parent: ClothingHeadsetAlt
+  id: ClothingHeadsetAltExecutioner
+  name: Executioner's headset
+  description: A red paint covered over-ear headset, some parts of the red paint have been sracthed off.
+  components:
+  - type: ContainerFill
+    containers:
+      key_slots:
+      - EncryptionKeyCommon
+      - EncryptionKeySecurity
+  - type: Sprite
+    sprite: _Clover/Clothing/Ears/Headsets/exeuctioner.rsi
+  - type: Clothing
+    sprite: _Clover/Clothing/Ears/Headsets/exeuctioner.rsi
